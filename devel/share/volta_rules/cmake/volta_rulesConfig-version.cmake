@@ -1,1 +1,0 @@
-/home/artpark/ros_ws/kinova_ws/devel/.private/volta_rules/share/volta_rules/cmake/volta_rulesConfig-version.cmake

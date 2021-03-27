@@ -1,5 +1,0 @@
-kinova-ros/kinova_moveit/robot_configs/m1n6s300_moveit_config
-/home/artpark/ros_ws/kinova_ws/devel/.private/m1n6s300_moveit_config/cmake.lock /home/artpark/ros_ws/kinova_ws/devel/./cmake.lock
-/home/artpark/ros_ws/kinova_ws/devel/.private/m1n6s300_moveit_config/share/m1n6s300_moveit_config/cmake/m1n6s300_moveit_configConfig-version.cmake /home/artpark/ros_ws/kinova_ws/devel/share/m1n6s300_moveit_config/cmake/m1n6s300_moveit_configConfig-version.cmake
-/home/artpark/ros_ws/kinova_ws/devel/.private/m1n6s300_moveit_config/share/m1n6s300_moveit_config/cmake/m1n6s300_moveit_configConfig.cmake /home/artpark/ros_ws/kinova_ws/devel/share/m1n6s300_moveit_config/cmake/m1n6s300_moveit_configConfig.cmake
-/home/artpark/ros_ws/kinova_ws/devel/.private/m1n6s300_moveit_config/lib/pkgconfig/m1n6s300_moveit_config.pc /home/artpark/ros_ws/kinova_ws/devel/lib/pkgconfig/m1n6s300_moveit_config.pc

@@ -1,5 +1,0 @@
-volta_simulation
-/home/artpark/ros_ws/kinova_ws/devel/.private/volta_simulation/cmake.lock /home/artpark/ros_ws/kinova_ws/devel/./cmake.lock
-/home/artpark/ros_ws/kinova_ws/devel/.private/volta_simulation/share/volta_simulation/cmake/volta_simulationConfig.cmake /home/artpark/ros_ws/kinova_ws/devel/share/volta_simulation/cmake/volta_simulationConfig.cmake
-/home/artpark/ros_ws/kinova_ws/devel/.private/volta_simulation/share/volta_simulation/cmake/volta_simulationConfig-version.cmake /home/artpark/ros_ws/kinova_ws/devel/share/volta_simulation/cmake/volta_simulationConfig-version.cmake
-/home/artpark/ros_ws/kinova_ws/devel/.private/volta_simulation/lib/pkgconfig/volta_simulation.pc /home/artpark/ros_ws/kinova_ws/devel/lib/pkgconfig/volta_simulation.pc

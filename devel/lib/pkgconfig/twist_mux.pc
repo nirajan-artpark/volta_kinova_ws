@@ -1,1 +1,0 @@
-/home/artpark/ros_ws/kinova_ws/devel/.private/twist_mux/lib/pkgconfig/twist_mux.pc

@@ -1,8 +1,0 @@
-prefix=/home/artpark/ros_ws/kinova_ws/install
-
-Name: volta_localization
-Description: Description of volta_localization
-Version: 1.1.1
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

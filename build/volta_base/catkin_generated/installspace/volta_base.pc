@@ -1,8 +1,0 @@
-prefix=/home/artpark/ros_ws/kinova_ws/install
-
-Name: volta_base
-Description: Description of volta_base
-Version: 1.1.1
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

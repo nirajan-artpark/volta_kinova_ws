@@ -1,5 +1,0 @@
-Symlinking /home/artpark/ros_ws/kinova_ws/devel/share/twist_mux/cmake/twist_muxConfig.cmake
-Symlinking /home/artpark/ros_ws/kinova_ws/devel/share/twist_mux/cmake/twist_muxConfig-version.cmake
-Symlinking /home/artpark/ros_ws/kinova_ws/devel/lib/twist_mux/twist_mux
-Symlinking /home/artpark/ros_ws/kinova_ws/devel/lib/twist_mux/twist_marker
-Symlinking /home/artpark/ros_ws/kinova_ws/devel/lib/pkgconfig/twist_mux.pc

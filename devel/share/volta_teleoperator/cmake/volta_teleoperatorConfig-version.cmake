@@ -1,1 +1,0 @@
-/home/artpark/ros_ws/kinova_ws/devel/.private/volta_teleoperator/share/volta_teleoperator/cmake/volta_teleoperatorConfig-version.cmake

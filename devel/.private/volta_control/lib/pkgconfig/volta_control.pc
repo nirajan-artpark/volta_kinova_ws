@@ -1,8 +1,0 @@
-prefix=/home/artpark/ros_ws/kinova_ws/devel/.private/volta_control
-
-Name: volta_control
-Description: Description of volta_control
-Version: 1.1.1
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

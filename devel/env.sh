@@ -1,1 +1,0 @@
-/home/artpark/ros_ws/kinova_ws/devel/.private/catkin_tools_prebuild/env.sh
