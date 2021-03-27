@@ -1,1 +1,0 @@
-/home/artpark/ros_ws/kinova_ws/devel/.private/volta_simulation/lib/pkgconfig/volta_simulation.pc

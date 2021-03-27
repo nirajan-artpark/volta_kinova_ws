@@ -1,1 +1,0 @@
-/home/artpark/ros_ws/kinova_ws/devel/.private/kinova_control/share/kinova_control/cmake/kinova_controlConfig.cmake

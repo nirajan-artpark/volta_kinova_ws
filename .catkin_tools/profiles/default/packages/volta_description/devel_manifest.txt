@@ -1,5 +1,0 @@
-volta/volta_description
-/home/artpark/ros_ws/kinova_ws/devel/.private/volta_description/cmake.lock /home/artpark/ros_ws/kinova_ws/devel/./cmake.lock
-/home/artpark/ros_ws/kinova_ws/devel/.private/volta_description/share/volta_description/cmake/volta_descriptionConfig.cmake /home/artpark/ros_ws/kinova_ws/devel/share/volta_description/cmake/volta_descriptionConfig.cmake
-/home/artpark/ros_ws/kinova_ws/devel/.private/volta_description/share/volta_description/cmake/volta_descriptionConfig-version.cmake /home/artpark/ros_ws/kinova_ws/devel/share/volta_description/cmake/volta_descriptionConfig-version.cmake
-/home/artpark/ros_ws/kinova_ws/devel/.private/volta_description/lib/pkgconfig/volta_description.pc /home/artpark/ros_ws/kinova_ws/devel/lib/pkgconfig/volta_description.pc

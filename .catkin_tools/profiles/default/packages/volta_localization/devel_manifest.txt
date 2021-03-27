@@ -1,5 +1,0 @@
-volta/volta_localization
-/home/artpark/ros_ws/kinova_ws/devel/.private/volta_localization/cmake.lock /home/artpark/ros_ws/kinova_ws/devel/./cmake.lock
-/home/artpark/ros_ws/kinova_ws/devel/.private/volta_localization/share/volta_localization/cmake/volta_localizationConfig.cmake /home/artpark/ros_ws/kinova_ws/devel/share/volta_localization/cmake/volta_localizationConfig.cmake
-/home/artpark/ros_ws/kinova_ws/devel/.private/volta_localization/share/volta_localization/cmake/volta_localizationConfig-version.cmake /home/artpark/ros_ws/kinova_ws/devel/share/volta_localization/cmake/volta_localizationConfig-version.cmake
-/home/artpark/ros_ws/kinova_ws/devel/.private/volta_localization/lib/pkgconfig/volta_localization.pc /home/artpark/ros_ws/kinova_ws/devel/lib/pkgconfig/volta_localization.pc
