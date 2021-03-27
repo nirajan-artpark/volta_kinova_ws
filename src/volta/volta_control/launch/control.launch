@@ -14,4 +14,47 @@
         <remap from="cmd_vel_out" to="cmd_vel" />
         <rosparam command="load" file="$(find volta_control)/config/twist_mux.yaml" />
     </node>
+
+  <arg name="use_trajectory_controller" default="true"/>
+  <arg name="is7dof" default="true"/>
+
+  <!-- Load joint controller configurations from YAML file to parameter server -->
+  <rosparam file="$(find volta_control)/config/j2n7s300_control.yaml" command="load"/>
+ 
+  <group unless="$(arg use_trajectory_controller)">
+    <group if="$(arg is7dof)">
+      <!-- load the joint by joint position controllers -->  
+      <node name="j2n7s300_joints_controller" pkg="controller_manager" type="spawner" respawn="false"
+        output="screen" ns="j2n7s300" 
+       args="joint_1_position_controller joint_2_position_controller  
+               joint_3_position_controller joint_4_position_controller
+               joint_5_position_controller joint_6_position_controller joint_7_position_controller
+               finger_2_position_controller finger_1_position_controller 
+               finger_3_position_controller finger_tip_1_position_controller
+               finger_tip_2_position_controller finger_tip_3_position_controller
+               joint_state_controller"/> 
+    </group>
+  </group>
+
+  <group if="$(arg use_trajectory_controller)">
+    <!-- Effort Joint trajectory controller-->
+    <node name="j2n7s300_trajectory_controller" pkg="controller_manager" type="spawner" 
+      output="screen" ns="j2n7s300" 
+      args="effort_joint_trajectory_controller
+      effort_finger_trajectory_controller    
+      finger_tip_1_position_controller
+      finger_tip_2_position_controller 
+      finger_tip_3_position_controller
+      joint_state_controller"/>    
+  </group>
+
+  <!-- convert joint states to TF transforms for rviz, etc -->
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher"
+        respawn="false" output="screen">    
+    <remap from="/joint_states" to="/j2n7s300/joint_states"/>    
+  </node>
+  
+  <node name="command_robot_home_pose" pkg="volta_control" type="move_robot.py"
+        respawn="false" output="screen" args="j2n7s300">       
+  </node>
 </launch>

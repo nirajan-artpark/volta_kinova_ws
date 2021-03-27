@@ -14,6 +14,10 @@ include_directories(
   ${catkin_INCLUDE_DIRS}
 )
 
+install(DIRECTORY meshes
+   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
+   FILES_MATCHING PATTERN "*.dae"
+ )
 install(
   DIRECTORY launch meshes rviz_params urdf
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}

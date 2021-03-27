@@ -33,7 +33,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <xacro:include filename="$(find volta_description)/urdf/volta_properties.xacro"/>
     <xacro:include filename="$(find volta_description)/urdf/components/wheel_volta.urdf.xacro"/>
     <xacro:include filename="$(find volta_description)/urdf/components/caster_volta.urdf.xacro"/>
-
+    <xacro:include filename="$(find volta_description)/urdf/j2s7s300.xacro" />
     <!-- xacro properties -->
     <xacro:property name="PI" value="3.14159"/>
 

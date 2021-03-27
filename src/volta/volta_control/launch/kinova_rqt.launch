@@ -1,0 +1,8 @@
+<launch>
+
+
+  <!-- Load RQT with a pre-setup GUI for Kinova controls from a perspective file  -->
+  <node name="kinova_rqt" pkg="rqt_gui" type="rqt_gui" respawn="false"
+	output="screen" args="--perspective-file $(find volta_control)/launch/j2n7s300.perspective"/>
+  
+</launch>

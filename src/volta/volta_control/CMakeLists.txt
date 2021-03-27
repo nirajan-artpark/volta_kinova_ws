@@ -19,3 +19,9 @@ install(
         DIRECTORY launch config
         DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
+
+install(PROGRAMS
+  src/move_robot.py
+  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+)
+
