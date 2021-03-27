@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/artpark/ros_ws/kinova_ws/devel/.private/robot_localization/setup.sh

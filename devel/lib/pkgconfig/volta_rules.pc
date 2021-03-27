@@ -1,0 +1,1 @@
+/home/artpark/ros_ws/kinova_ws/devel/.private/volta_rules/lib/pkgconfig/volta_rules.pc

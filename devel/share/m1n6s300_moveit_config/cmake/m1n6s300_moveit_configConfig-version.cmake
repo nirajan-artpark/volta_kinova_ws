@@ -1,0 +1,1 @@
+/home/artpark/ros_ws/kinova_ws/devel/.private/m1n6s300_moveit_config/share/m1n6s300_moveit_config/cmake/m1n6s300_moveit_configConfig-version.cmake

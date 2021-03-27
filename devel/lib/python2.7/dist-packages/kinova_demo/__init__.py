@@ -1,0 +1,1 @@
+/home/artpark/ros_ws/kinova_ws/devel/.private/kinova_demo/lib/python2.7/dist-packages/kinova_demo/__init__.py

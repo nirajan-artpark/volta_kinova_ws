@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target volta_joy_teleop[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/volta_joy_teleop.dir/src/joy_teleop.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/artpark/ros_ws/kinova_ws/devel/.private/volta_teleoperator/lib/libvolta_joy_teleop.so[0m
+[ 50%] Built target volta_joy_teleop
+[35m[1mScanning dependencies of target volta_joy_teleop_node[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/volta_joy_teleop_node.dir/src/joy_teleop_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/artpark/ros_ws/kinova_ws/devel/.private/volta_teleoperator/lib/volta_teleoperator/volta_joy_teleop_node[0m
+[100%] Built target volta_joy_teleop_node

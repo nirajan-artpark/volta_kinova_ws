@@ -1,0 +1,1 @@
+/home/artpark/ros_ws/kinova_ws/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l

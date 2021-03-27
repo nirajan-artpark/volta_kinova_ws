@@ -1,0 +1,1 @@
+/home/artpark/ros_ws/kinova_ws/devel/.private/volta_navigation/share/volta_navigation/cmake/volta_navigationConfig.cmake

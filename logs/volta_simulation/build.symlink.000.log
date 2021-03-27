@@ -1,0 +1,3 @@
+Symlinking /home/artpark/ros_ws/kinova_ws/devel/share/volta_simulation/cmake/volta_simulationConfig.cmake
+Symlinking /home/artpark/ros_ws/kinova_ws/devel/share/volta_simulation/cmake/volta_simulationConfig-version.cmake
+Symlinking /home/artpark/ros_ws/kinova_ws/devel/lib/pkgconfig/volta_simulation.pc

@@ -1,0 +1,2 @@
+set(robot_localization_MESSAGE_FILES "")
+set(robot_localization_SERVICE_FILES "/home/artpark/ros_ws/kinova_ws/src/robot_localization/srv/GetState.srv;/home/artpark/ros_ws/kinova_ws/src/robot_localization/srv/SetDatum.srv;/home/artpark/ros_ws/kinova_ws/src/robot_localization/srv/SetPose.srv;/home/artpark/ros_ws/kinova_ws/src/robot_localization/srv/ToggleFilterProcessing.srv;/home/artpark/ros_ws/kinova_ws/src/robot_localization/srv/FromLL.srv;/home/artpark/ros_ws/kinova_ws/src/robot_localization/srv/ToLL.srv")

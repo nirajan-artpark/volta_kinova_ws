@@ -1,0 +1,5 @@
+Symlinking /home/artpark/ros_ws/kinova_ws/devel/share/volta_teleoperator/cmake/volta_teleoperatorConfig.cmake
+Symlinking /home/artpark/ros_ws/kinova_ws/devel/share/volta_teleoperator/cmake/volta_teleoperatorConfig-version.cmake
+Symlinking /home/artpark/ros_ws/kinova_ws/devel/lib/libvolta_joy_teleop.so
+Symlinking /home/artpark/ros_ws/kinova_ws/devel/lib/volta_teleoperator/volta_joy_teleop_node
+Symlinking /home/artpark/ros_ws/kinova_ws/devel/lib/pkgconfig/volta_teleoperator.pc

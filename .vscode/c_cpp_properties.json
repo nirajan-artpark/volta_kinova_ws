@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/artpark/ros_ws/kinova_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/artpark/ros_ws/kinova_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2n6s300_ikfast/include/**",
+        "/home/artpark/ros_ws/kinova_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2s6s300_ikfast/include/**",
+        "/home/artpark/ros_ws/kinova_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2s7s300_ikfast/include/**",
+        "/home/artpark/ros_ws/kinova_ws/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include/**",
+        "/home/artpark/ros_ws/kinova_ws/src/kinova-ros/kinova_driver/include/**",
+        "/home/artpark/ros_ws/kinova_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/m1n6s300_ikfast/include/**",
+        "/home/artpark/ros_ws/kinova_ws/src/robot_localization/include/**",
+        "/home/artpark/ros_ws/kinova_ws/src/twist_mux/include/**",
+        "/home/artpark/ros_ws/kinova_ws/src/volta/volta_teleoperator/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
